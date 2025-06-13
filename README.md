@@ -1,5 +1,4 @@
 # LyricEmotionAnalysis
-# Lyric Emotion Analysis
 
 ## Description
 
